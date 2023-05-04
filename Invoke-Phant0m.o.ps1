@@ -1,4 +1,4 @@
-function Invoke-Phant0m {
+function Invoke-Fant0n {
 <#
 .SYNOPSIS
 This script walks thread stacks of Event Log Service process (spesific svchost.exe) and identify
